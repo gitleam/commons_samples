@@ -67,7 +67,7 @@
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
 			<!-- 依赖 commons-codec:commons-codec -->
-			<version>4.5.4</version>
+			<version>4.5.13</version>
 		</dependency>
 
 		<!-- BinaryDecoder、StringDecoder等操作 -->
